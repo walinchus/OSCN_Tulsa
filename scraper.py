@@ -24,7 +24,7 @@ years = ['2011','2012','2013','2014','2015','2016','2017']
 CrimeSeverity = ['CF','CM']
 
 def CaseEndingNumbers():
-    for x in range(39, 7110):
+    for x in range(74, 7110):
         yield '%d' % x
         
 
